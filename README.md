@@ -1,4 +1,3 @@
-# shopping_list[index.html](https://github.com/user-attachments/files/23430978/index.html)
 <!DOCTYPE html>
 <html lang="uk">
 <head>
